@@ -1,16 +1,13 @@
-# Dracula for [Visual Studio Code](http://code.visualstudio.com)
+# A dracula theme option for [Visual Studio Code](https://code.visualstudio.com)
 
-> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> **Note:**
+>
+> This is a fork of the [official dracula theme](https://github.com/dracula/visual-studio-code) with some of my tuning.
 
-## Community
 
-* [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-* [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-* [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+# Theme Preview
 
-## Contributing
-
-If you'd like to contribute to this theme, please read the [contributing guidelines](./.github/CONTRIBUTING.md).
+![screenshot](./screenshot.png)
 
 ## License
 

@@ -2,8 +2,7 @@
     "name": "wangwindow-dracula-theme",
     "version": "1.0.0",
     "displayName": "Dracula Theme(WangWindow Fork)",
-    "homepage": "https://draculatheme.com/",
-    "description": "The Dracula Theme: a dark theme for many editors, shells, and more. 🦇",
+    "description": "A dracula theme option for VSCode. Forked from dracula-theme by dracula official.",
     "publisher": "WangWindow",
     "license": "MIT",
     "scripts": {
@@ -26,8 +25,7 @@
     "keywords": [
         "dracula",
         "dark",
-        "theme",
-        "color-theme"
+        "theme"
     ],
     "icon": "icon.png",
     "galleryBanner": {
