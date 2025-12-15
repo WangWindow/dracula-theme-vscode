@@ -7,7 +7,7 @@
 
 # Theme Preview
 
-![screenshot](./screenshot.png)
+![screenshot](https://raw.githubusercontent.com/WangWindow/dracula-theme-vscode//main/screenshot.png)
 
 ## License
 

@@ -1,6 +1,6 @@
 {
     "name": "wangwindow-dracula-theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Dracula Theme(WangWindow Fork)",
     "description": "A dracula theme option for VSCode. Forked from dracula-theme by dracula official.",
     "publisher": "WangWindow",
