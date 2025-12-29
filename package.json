@@ -1,0 +1,47 @@
+{
+    "name": "wangwindow-dracula-theme",
+    "version": "1.0.2",
+    "displayName": "Dracula Theme(WangWindow Fork)",
+    "description": "A dracula theme option for VSCode. Forked from dracula-theme by dracula official.",
+    "publisher": "WangWindow",
+    "license": "MIT",
+    "scripts": {
+        "build": "node ./scripts/build.js",
+        "package": "npm run build && vsce package -o ./dracula-$(node -p \"require('./package.json').version\").vsix"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/WangWindow/dracula-theme-vscode.git"
+    },
+    "bugs": {
+        "url": "https://github.com/WangWindow/dracula-theme-vscode/issues"
+    },
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "dracula",
+        "dark",
+        "theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#3c4557",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dracula Theme",
+                "uiTheme": "vs-dark",
+                "path": "./theme/dracula.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^3.7.1"
+    }
+}
