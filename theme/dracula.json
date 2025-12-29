@@ -5,7 +5,7 @@
     "maintainers": [
         "WangWindow <1598593280@qq.com>"
     ],
-    "semanticClass": "theme.dracula",
+    "semanticClass": "theme.dracula.wangwindow",
     "semanticHighlighting": true,
     "dracula": {
         "base": [
